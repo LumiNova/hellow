@@ -4,7 +4,6 @@
 
 **Including**
 
-- Snake Game
 - A shitty Java autoclicker
 - Some Bash scripts for Minecraft
 - Mods and Plugins for Minecraft
