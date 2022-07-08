@@ -1,6 +1,6 @@
 ### hellow :wave:
 
-## Some ideas I wanna finish ✍️
+## Some stupid shit I wanna finish ✍️
 
 **Including**
 
