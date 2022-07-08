@@ -1,4 +1,4 @@
-### hellow :wave
+### hellow :wave:
 
 ## Some ideas I wanna finish ✍️
 
